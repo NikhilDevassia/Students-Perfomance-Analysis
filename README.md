@@ -31,3 +31,7 @@ python3 app.py
 ```bash
 python3 src/pipeline/train_pipeline.py
 ```
+
+
+#### Demo
+https://github.com/NikhilDevassia/Students-Perfomance-Analysis/assets/102344001/fe9d30a3-a08b-4f7f-9657-ce7181695d8c
