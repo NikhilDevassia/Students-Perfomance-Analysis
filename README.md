@@ -23,12 +23,6 @@ source env/bin/activate  # On Windows, use: .\env\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
-Demo:
-https://github.com/NikhilDevassia/Students-Perfomance-Analysis/assets/102344001/30a9d89e-9d00-4913-8698-0ffa7f2d6ef2
-
-
-
 5. Run the project:
 ```bash
 python3 app.py
